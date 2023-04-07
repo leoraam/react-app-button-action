@@ -1,7 +1,7 @@
-import Message from './Message';
+import ListGroup from "./components/ListGroup";
 
 function App() {
-  return <div> <Message></Message></div>; // or <Message /> self closing sintax
+  return <div> <ListGroup /></div>; // or <Message /> self closing sintax
 }
 
 export default App;
