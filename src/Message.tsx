@@ -1,4 +1,4 @@
-// PascalCasing or CameCase
+// PascalCase
 function Message() {
   // JSX: JavaScript XML
   const name = "Leonardo";
